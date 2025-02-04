@@ -1,0 +1,4 @@
+SpeechRecognition==3.8.1
+python-dotenv==0.19.2
+openai==0.27.0
+
